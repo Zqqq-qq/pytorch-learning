@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/cifar10/
+data/hymenoptera_data/
+data/generated_shapes/
+checkpoints/
+runs/
+*.pth
+*.pt

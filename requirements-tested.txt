@@ -1,0 +1,10 @@
+# Tested on macOS arm64, Python 3.13.16
+torch==2.15.0
+torchvision==0.29.2
+pillow==13.0.0
+matplotlib==3.11.2
+tensorboard==2.21.0
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==7.4.0
+ipywidgets==8.1.9

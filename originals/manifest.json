@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1XzTDI7B8izQh2_KTftucXK01zS6ujp1b",
+    "title": "DataLoader",
+    "archive": "originals/01_1XzTDI7B8izQh2_KTftucXK01zS6ujp1b.ipynb",
+    "sha256": "9b559ff6913d7b66eab44f6d1d41a41920d2aeb7ea34ec2977bbd89208cc8b9d",
+    "colab_url": "https://colab.research.google.com/drive/1XzTDI7B8izQh2_KTftucXK01zS6ujp1b"
+  },
+  {
+    "id": "1_MU-wjX8cQd6sjSdUi3deWY4LxxL3y8Y",
+    "title": "Nn.Linear",
+    "archive": "originals/02_1_MU-wjX8cQd6sjSdUi3deWY4LxxL3y8Y.ipynb",
+    "sha256": "5dc57125b8fd8dceb7137aad155efdcc48b4495b98fdfc8023d629f99c6ada34",
+    "colab_url": "https://colab.research.google.com/drive/1_MU-wjX8cQd6sjSdUi3deWY4LxxL3y8Y"
+  },
+  {
+    "id": "1qKaDGbAHdV0HpqFr9GRjHjRE2Qk9oW4f",
+    "title": "Container-nn.Module",
+    "archive": "originals/03_1qKaDGbAHdV0HpqFr9GRjHjRE2Qk9oW4f.ipynb",
+    "sha256": "d08d55fcb1ee4d94bb6846dd157c08bb36870a0e6a1c68a9ef9cdbd3b2223e8b",
+    "colab_url": "https://colab.research.google.com/drive/1qKaDGbAHdV0HpqFr9GRjHjRE2Qk9oW4f"
+  },
+  {
+    "id": "1UoR3KC9pIfJE9YQIJlZ4-l46fqK28VT-",
+    "title": "model_train",
+    "archive": "originals/04_1UoR3KC9pIfJE9YQIJlZ4-l46fqK28VT-.ipynb",
+    "sha256": "45fbf7e6d372bd21bbab2f4c67150a8015c4f60cb4701cfd4d6eb08e035055ef",
+    "colab_url": "https://colab.research.google.com/drive/1UoR3KC9pIfJE9YQIJlZ4-l46fqK28VT-"
+  },
+  {
+    "id": "1tWBD-ksfM_nBeSGyfJ6BNBsR0DcwI-64",
+    "title": "Dataset",
+    "archive": "originals/05_1tWBD-ksfM_nBeSGyfJ6BNBsR0DcwI-64.ipynb",
+    "sha256": "814bb9a79bf259a73697e81fabe7e7b37296415c99742d7879d2dd367376c8b1",
+    "colab_url": "https://colab.research.google.com/drive/1tWBD-ksfM_nBeSGyfJ6BNBsR0DcwI-64"
+  },
+  {
+    "id": "13X1fKE8CwszC8wbcgbOTqhd3amjvWBGp",
+    "title": "Nn. Optimizer",
+    "archive": "originals/06_13X1fKE8CwszC8wbcgbOTqhd3amjvWBGp.ipynb",
+    "sha256": "33050d97451f34ab815b25dbf8a99d7b9e0c0859e4181036eba46fa5369c14cc",
+    "colab_url": "https://colab.research.google.com/drive/13X1fKE8CwszC8wbcgbOTqhd3amjvWBGp"
+  },
+  {
+    "id": "1P9dAhi94bIy-5DE7e4EAGAyVuN7dtYgb",
+    "title": "Nn.Loss and backward",
+    "archive": "originals/07_1P9dAhi94bIy-5DE7e4EAGAyVuN7dtYgb.ipynb",
+    "sha256": "9bc31ace9230acfaa1c925fc330154a28519c4cd3a09576c66cb504349658bd2",
+    "colab_url": "https://colab.research.google.com/drive/1P9dAhi94bIy-5DE7e4EAGAyVuN7dtYgb"
+  },
+  {
+    "id": "1vkmD-aMaSCzxEe0WiPkAAoQF4zXBztAk",
+    "title": "DL（lm）",
+    "archive": "originals/08_1vkmD-aMaSCzxEe0WiPkAAoQF4zXBztAk.ipynb",
+    "sha256": "9c01197635780b478792b11bcb30872e7d186c56c5da99310f1f0da11fb6df2d",
+    "colab_url": "https://colab.research.google.com/drive/1vkmD-aMaSCzxEe0WiPkAAoQF4zXBztAk"
+  },
+  {
+    "id": "17PgDYQAPVqg1gjhyOaqr_yTDr7jTH1QK",
+    "title": "None-linear activation",
+    "archive": "originals/09_17PgDYQAPVqg1gjhyOaqr_yTDr7jTH1QK.ipynb",
+    "sha256": "94c9e733831a937508cc1aa49627233b9e4565a0d3fdcb99aa4c6030a5149f87",
+    "colab_url": "https://colab.research.google.com/drive/17PgDYQAPVqg1gjhyOaqr_yTDr7jTH1QK"
+  },
+  {
+    "id": "1_8_5WqCQ1SOYUSHY04epmjfLW2HegOML",
+    "title": "Sequential",
+    "archive": "originals/10_1_8_5WqCQ1SOYUSHY04epmjfLW2HegOML.ipynb",
+    "sha256": "33d1ddc72993552642addb081cb54cee975ab34b88d3cb6716d9d5cfa450b609",
+    "colab_url": "https://colab.research.google.com/drive/1_8_5WqCQ1SOYUSHY04epmjfLW2HegOML"
+  },
+  {
+    "id": "1GSSVlNn9fl6JKidZuk3ZyR-5dwVas-Rz",
+    "title": "model_save",
+    "archive": "originals/11_1GSSVlNn9fl6JKidZuk3ZyR-5dwVas-Rz.ipynb",
+    "sha256": "25c46a515f9fdd2d0ee9a5ec2eb92d89a8146ad9807ad66bdeebfd32a33ca6b2",
+    "colab_url": "https://colab.research.google.com/drive/1GSSVlNn9fl6JKidZuk3ZyR-5dwVas-Rz"
+  },
+  {
+    "id": "1mOYA9QNLTRnAxPj0Y4PVn4B42szQzm-c",
+    "title": "self attention",
+    "archive": "originals/12_1mOYA9QNLTRnAxPj0Y4PVn4B42szQzm-c.ipynb",
+    "sha256": "48be148fffccd341f145ff0d9d350dbd046806b9aaabb46ddf76614ffe61b9d2",
+    "colab_url": "https://colab.research.google.com/drive/1mOYA9QNLTRnAxPj0Y4PVn4B42szQzm-c"
+  }
+]
